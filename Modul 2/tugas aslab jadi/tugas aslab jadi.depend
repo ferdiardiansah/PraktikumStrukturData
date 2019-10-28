@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557822489 source:d:\tugas aslab jadi\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

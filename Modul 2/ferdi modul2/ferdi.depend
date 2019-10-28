@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557320260 source:d:\ferdi\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1557835589 source:d:\data\ferdi\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

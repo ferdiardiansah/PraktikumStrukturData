@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558366524 source:d:\c++\tugas aslab modul 3\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1558367096 source:e:\kuliah semester 2\praktikum\modul 3\tugas aslab modul 3\main.cpp
+	<iostream>
+	<stdlib.h>
+

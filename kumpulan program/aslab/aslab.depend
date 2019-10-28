@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557695372 source:d:\c++\aslab\main.cpp
+	<iostream>
+	<stdio.h>
+
+1557727638 source:f:\aslab\main.cpp
+	<iostream>
+

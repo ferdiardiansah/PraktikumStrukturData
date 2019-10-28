@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556768772 source:d:\semester 2\praktikum semester 2\modul 1 (ferdi ardiansyah)\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+
+1556796501 source:d:\data\modul 1 (ferdi ardiansyah)\main.cpp
+	"Header.h"
+
+1556800852 d:\data\modul 1 (ferdi ardiansyah)\header.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

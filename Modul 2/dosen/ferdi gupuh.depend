@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1558415630 source:d:\ferdi gupuh\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1559057797 source:e:\kuliah semester 2\praktikum\modul 2\ferdi gupuh\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<string>
+
+1559057797 source:e:\kuliah semester 2\praktikum\modul 2\dosen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<string>
+

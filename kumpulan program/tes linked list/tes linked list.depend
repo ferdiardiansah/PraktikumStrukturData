@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557301164 source:d:\tes linked list\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+

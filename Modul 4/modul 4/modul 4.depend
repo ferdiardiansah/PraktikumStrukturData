@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558652116 source:d:\c++\modul 4\main.cpp
+	<iostream>
+
+1558653052 source:e:\kuliah semester 2\praktikum\modul 4\modul 4\main.cpp
+	<iostream>
+	<stdlib.h>
+

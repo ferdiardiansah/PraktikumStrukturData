@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557837809 source:d:\praktikum modul 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
